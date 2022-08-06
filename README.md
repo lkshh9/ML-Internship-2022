@@ -13,13 +13,13 @@ Basics of python
 
 Package description for ML and Data Science
 
-Data Analytics Techniques, Applications and Use Cases - (Guest Lecture by Dr. Jagannath Singh, Associate Professor, KIIT University
+Data Analytics Techniques, Applications and Use Cases - (Guest Lecture by Dr. Jagannath Singh, KIIT University
 
 Introduction to Machine Learning
 
 Classification based Learning
 
-“Feature Selection using Genetic Algorithm” - (Guest Lecture by Dr. Lov Kumar, Assistant Professor BITS-PILANI, Hyderabad)
+“Feature Selection using Genetic Algorithm” - (Guest Lecture by Dr. Lov Kumar, BITS-PILANI, Hyderabad)
 
 Introduction to Deep Learning
 
@@ -31,4 +31,4 @@ Deep Learning Frameworks and Packages - (Guest Lecture by Dr. Jitendra Kumar Rou
 
 Keras API
 
-Deploying AI/ ML products - (Guest Lecture by Er. Ankit Kumar Sinha, Senior Machine Learning Engineer, Teledoc Health, Dallas, Texas, USA)
+Deploying AI/ ML products - (Guest Lecture by Er. Ankit Kumar Sinha, Senior Machine Learning Engineer, Teledoc Health, USA)
