@@ -5,7 +5,7 @@ The Internship program taught all basic concepts to get started in ML and Deep L
 
 At the end of the program I made some ML projects using ANN and CNN.
 
-## The topics and concepts covered during this program were
+## The topics and concepts covered during this program were :-
 
 Introduction to image processing
 
